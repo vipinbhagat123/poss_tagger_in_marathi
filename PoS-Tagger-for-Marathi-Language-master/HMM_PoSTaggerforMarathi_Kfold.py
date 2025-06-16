@@ -1,7 +1,7 @@
 from __future__ import division #To avoid integer division
 from operator import itemgetter
 from nltk.corpus import indian 
-import numpy as np
+import numpy as np 
 import itertools
 import random
 from sklearn.metrics import confusion_matrix
