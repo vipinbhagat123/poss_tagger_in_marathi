@@ -1,1 +1,1 @@
- https://github.com/UniversalDependencies/UD_Marathi-UFAL
+    https://github.com/UniversalDependencies/UD_Marathi-UFAL
